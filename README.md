@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🎓 Soy estudiante de Ingeniería Informática, actualmente cursando tercero
-* 📚 Tengo repositorios con las prácticas y ejercicios hechos durante la carrera
+* 🎓 I am a student of Computer Engineering, currently in my third year
+* 📚 I have repositories with the practices and exercises done during the course
 
 ### Stats:
 
