@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Estadistics:
+* 🎓 Soy estudiante de Ingeniería Informática, actualmente cursando tercero
+* 📚 Tengo repositorios con las prácticas y ejercicios hechos durante la carrera
+
+### Stats:
 
 <p align=center>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgh99&layout=compact&theme=dracula">
