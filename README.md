@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🎓 I am a student of Computer Engineering, currently in my third year
+* 🎓 I am a student of Computer Engineering, currently in last year
 * 📚 I have repositories with the practices and exercises done during the course
 
 ### Stats:
