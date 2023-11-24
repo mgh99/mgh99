@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🎓 I am a student of Computer Engineering, currently in last year
-* 📚 I have repositories with the practices and exercises done during the course
+* 🎓 I am a Computer Engineering 
+* 📚 I have repositories with the practices and exercises done during my degree at Nebrija University and my personal proyects
 
 ### Stats:
 
