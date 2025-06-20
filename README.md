@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 * 🎓 I am a Computer Engineering 
-* 📚 I have repositories with the practices and exercises done during my degree at Nebrija University and my personal proyects
+* 📚 I have repositories with the practices and exercises done during my degree at Nebrija University, and my master on Essex University and my personal proyects
 
 ### Stats:
 
