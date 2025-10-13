@@ -1,26 +1,47 @@
-### Hi there 👋
+### 👋 Hi, I'm María González Herrero
 
-<!--
-**mgh99/mgh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MSc Cyber Security** — University of Essex (UK)  
+💻 **BSc Computer Engineering** — Nebrija University (Spain)  
+🏆 Award for Academic Excellence | 🧠 Researcher in AI & Cybersecurity  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I’m a **junior cybersecurity engineer and Python developer** passionate about **ethical hacking, AI-powered pentesting**, and **automation tools**.  
+Currently, I’m developing **Glitch_ai**, an AI-driven framework for semi-automated penetration testing using **Mistral models**, **FastAPI**, and **Docker**.  
 
-* 🎓 I am a Computer Engineering 
-* 📚 I have repositories with the practices and exercises done during my degree at Nebrija University, and my master on Essex University and my personal proyects
+My background combines:
+- 🔐 **Cybersecurity & Pentesting:** Python tools for Nmap, Hydra, SQLmap, Nikto automation  
+- 🤖 **AI & Data Science:** fine-tuning, dataset creation, model evaluation  
+- 🧩 **Full-Stack Projects:** Flutter + Firebase apps, REST APIs, containerized deployments  
+- ⚙️ **Hardware & IoT curiosity:** ESP32 sensors, home-automation experiments  
 
-### Stats:
+---
 
-<p align=center>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgh99&layout=compact&theme=dracula">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mgh99&show_icons=true&theme=dracula" />
+### 🧭 Featured Projects
+| 🔗 Project | 🧰 Stack | 💬 Description |
+|-------------|-----------|----------------|
+| [**Glitch_ai**](https://gitlab.com/mgh99/glitch_ai) | FastAPI · Docker · Mistral LLM | AI-powered pentesting assistant with adaptive mitigation reports |
+| [**Footprinting Tool**](https://github.com/mgh99/Footprinting-script) | Python · Typer · DNS/Whois | Automated domain reconnaissance CLI |
+| [**SantElmo Field App**] | Flutter · Firebase | Field-notebook app for campaign and data tracking |
+
+---
+
+### 🌱 Currently learning
+- Advanced red-team automation  
+- LLM fine-tuning for security tasks  
+- Container orchestration and CI/CD pipelines  
+
+---
+
+### 🤝 Let’s Connect
+💼 [LinkedIn](https://www.linkedin.com/in/mgh99)  
+📧 maria.gonzalezherrero@gmail.com  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgh99&layout=compact&theme=dracula" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mgh99&show_icons=true&theme=dracula" />
 </p>
