@@ -36,7 +36,7 @@ My background combines:
 
 ### 🤝 Let’s Connect
 💼 [LinkedIn](https://www.linkedin.com/in/mgh99)  
-📧 maria.gonzalezherrero@gmail.com  
+📧 maria.gonzalez.herrero99@gmail.com  
 
 ---
 
