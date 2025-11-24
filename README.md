@@ -18,19 +18,7 @@ My background combines:
 
 ---
 
-### 🧭 Featured Projects
-| 🔗 Project | 🧰 Stack | 💬 Description |
-|-------------|-----------|----------------|
-| [**Glitch_ai**](https://gitlab.com/mgh99/glitch_ai) | FastAPI · Docker · Mistral LLM | AI-powered pentesting assistant with adaptive mitigation reports |
-| [**Footprinting Tool**](https://github.com/mgh99/Footprinting-script) | Python · Typer · DNS/Whois | Automated domain reconnaissance CLI |
-| [**SantElmo Field App**] | Flutter · Firebase | Field-notebook app for campaign and data tracking |
-
----
-
-### 🌱 Currently learning
-- Advanced red-team automation  
-- LLM fine-tuning for security tasks  
-- Container orchestration and CI/CD pipelines  
+### 🚀 My portfolio: https://portfolio-silk-three-88.vercel.app/
 
 ---
 
